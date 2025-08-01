@@ -28,7 +28,7 @@ const Home = () => {
       <section 
         className="relative min-h-screen w-full flex items-center justify-center px-4 sm:px-6 lg:px-12 py-20"
         style={{
-          backgroundImage: "url('/public/Food.jpg')", 
+          backgroundImage: "url('/Food.jpg')", 
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
