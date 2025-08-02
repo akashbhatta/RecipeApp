@@ -14,7 +14,7 @@ function MealPlan() {
           {
             params: {
               timeFrame: "day",
-              apiKey: API_KEY, // <-- FIXED HERE
+              apiKey: 'f1631a96d679415092ca9ed85baa0138', 
             },
           }
         );

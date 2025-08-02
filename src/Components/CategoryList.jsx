@@ -12,7 +12,7 @@ export default function CategoryList() {
       try {
         const res = await axios.get(`https://api.spoonacular.com/recipes/complexSearch`, {
           params: {
-            apiKey: 'YOUR_API_KEY',
+            apiKey: 'f1631a96d679415092ca9ed85baa0138',
             type: name.toLowerCase() // breakfast, lunch, etc.
           }
         })
